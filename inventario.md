@@ -2,3 +2,4 @@
 2077995
 
 ### componenti
+### periferiche
